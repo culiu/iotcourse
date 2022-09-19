@@ -6,6 +6,7 @@ int count(int a)
 	    int sum=0;
 	    sum+=a;
     }
+}
 int main()
 {
     
